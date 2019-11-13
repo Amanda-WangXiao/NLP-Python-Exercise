@@ -10,4 +10,8 @@ Using Gensim and pre-trained word2vec model (GoogleNews-vectors-negative300.bin)
 #3_passage cos distance  
 Using Gensim and pre-trained word2vec model (GoogleNews-vectors-negative300.bin) to calculate the cosine distance between two passages.  
 Also, with the help of Alir3z4/stop-words to do data pre-processing (Link: https://github.com/Alir3z4/stop-words).  
+  
+#4_MLPtrain with packaged dataset  
+Using sklearn to train a MLPClassifer based on neural network with original packaged datasets.  
+  
 
