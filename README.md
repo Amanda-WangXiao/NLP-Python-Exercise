@@ -17,7 +17,7 @@ Using sklearn to train a MLPClassifer based on neural network with original pack
 #5_MLPtrain with own dataset  
 Using sklearn to train a MLPClassifer based on neural network with my own datasets.  
   
-6_MLP predict  
+#6_MLP predict  
 Using trained MLPClassifer to predict model & calculate the value of accuracy of the test category and predicted category.  
   
   
